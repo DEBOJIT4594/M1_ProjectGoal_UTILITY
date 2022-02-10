@@ -5,19 +5,27 @@
    A calculator is a device use to do some basic mathematical operations. This include **addition**, **substraction**, **division** and **multiplication**. In this project, I will add some additional  mathematical operations that are use in mathematical world. This includes Sin function, Cos function, Power, Factorial, etc.
    
    In this project, the user is going to enter numbers of his/her desire. 
-
+   
+  
 **HIGH LEVEL REQUIREMENT**
 -
 
-- The calculator must perform all the operations.
-- The calculator must give corrent result.
-- There should not be any delay in operation and result.
+
+|Test ID  |    Description  |
+-------------|------------------------
+|HL01     |    The calculator must perform all the operations. | 
+|HL02     |    The calculator must perform all the operations. |
+|HL03     |    The calculator must give corrent result.        |
+|HL04     |    There should not be any delay in operation and result.      |
+
 
 **LOW LEVEL REQUIREMENT**
 -
 
-- The user must use **(** or **)** to do operation between two perticular number.
-- The number when given to sin and cos function must be in radian.
+|Test ID   |  Description |
+------------------|-------------------
+|LL01     | The user must use **(** or **)** to do operation between two perticular number.|
+|LL02     | The number when given to sin and cos function must be in radian.|
 
 
 **SWOT ANALYSIS**
@@ -57,3 +65,7 @@ The technological developement in this field is slow compare to other fields of 
  **WHERE**
  
  . This project has been done in vs code.
+
+**HOW**
+
+- I am doing this project using C language. I am using switch break statement to select an operation to be perform as desired by the user.
