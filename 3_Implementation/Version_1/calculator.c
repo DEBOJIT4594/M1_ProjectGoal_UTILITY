@@ -75,7 +75,7 @@ int main()
             scanf(" %d", &n1); 
             scanf(" %d", &n2);
             RESULT = pow(n1,n2);
-            printf (" Power of %d is: %d", n1, RESULT);
+            printf (" Power of %d is: %f", n1, RESULT);
             break;
         case 9:
             printf ("\n Enter Two Numbers");
