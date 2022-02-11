@@ -7,7 +7,6 @@
   
 **HIGH LEVEL REQUIREMENT**
 -
-
 |Test ID  |    Description  |
 -------------|------------------------
 |HL01     |    The calculator must perform all the operations. | 
@@ -15,19 +14,15 @@
 |HL03     |    The calculator must give corrent result.        |
 |HL04     |    There should not be any delay in operation and result.      |
 
-
 **LOW LEVEL REQUIREMENT**
 -
-
 |Test ID   |  Description |
 ------------------|-------------------
 |LL01     | The user must use **(** or **)** to do operation between two perticular number.|
 |LL02     | The number when given to sin and cos function must be in radian.|
 
-
 **SWOT ANALYSIS**
 -
-
 __STRENGTHS__
 
 Can perform operations instantly which saves the time of the user and it is very handy.
