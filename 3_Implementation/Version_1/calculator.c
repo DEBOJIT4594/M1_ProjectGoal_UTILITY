@@ -10,7 +10,6 @@ int main()
     int n1;
     int n2; 
     float RESULT;  
-    char ch;  
     do  
     {  
         printf ("Select Operation");  
