@@ -110,7 +110,7 @@ int main()
             printf(" ERROR ");  
             break;                        
     }  
-    printf (" \n \n ********************************************** \n ");  
+    printf (" \n \n*END* \n \n ");  
     } while (option != 7);  
      return 0;        
 }
