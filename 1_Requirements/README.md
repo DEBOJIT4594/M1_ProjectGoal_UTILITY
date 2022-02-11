@@ -10,7 +10,6 @@
 **HIGH LEVEL REQUIREMENT**
 -
 
-
 |Test ID  |    Description  |
 -------------|------------------------
 |HL01     |    The calculator must perform all the operations. | 
