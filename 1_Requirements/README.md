@@ -52,19 +52,19 @@ The technological developement in this field is slow compare to other fields of 
 
 **WHO**
 
- . This project is purely handeled by me and whatever happens, I am responsible for that.
+ - This project is purely handeled by me and whatever happens, I am responsible for that.
  
  **WHAT**
  
- . Calculator is a basic need nowadays, so, I am building a basic calculator to do some mathematical calculations with different operators.
+ - Calculator is a basic need nowadays, so, I am building a basic calculator to do some mathematical calculations with different operators.
  
  **WHEN**
  
- . This project has been done between 3rd of february 2022 and 10th of february 2022.
+ - This project has been done between 3rd of february 2022 and 10th of february 2022.
  
  **WHERE**
  
- . This project has been done in vs code.
+ - This project has been done in vs code.
 
 **HOW**
 
