@@ -8,7 +8,8 @@
     int n1;
     int n2; 
     float RESULT;  
-    char ch;  
+    int i = 1;
+    int res = 1;  
 
     switch (option)  
     {  
