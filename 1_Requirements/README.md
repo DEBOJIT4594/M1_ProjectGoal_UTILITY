@@ -60,4 +60,4 @@ The technological developement in this field is slow compare to other fields of 
 
 **HOW**
 
-- I am doing this project using C language. I am using switch break statement to select an operation to be perform as desired by the user.
+- I am doing this project using C language. I am using do while loop and switch break statement to select an operation to be perform as desired by the user.
