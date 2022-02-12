@@ -24,14 +24,14 @@ int main()
             scanf (" %f", &N1);   
             scanf (" %f", &N2);  
             RESULT = N1 + N2; 
-            printf (" Addition = %.2f", RESULT);  
+            printf (" Addition is %.2f", RESULT);  
             break;           
         case 2:                 
             printf ("\n Enter Two Numbers");  
             scanf (" %f", &N1);    
             scanf (" %f", &N2);  
             RESULT = N1 - N2; 
-            printf (" Subtraction = %.2f", RESULT);  
+            printf (" Subtraction is %.2f", RESULT);  
             break;             
         case 3:                 
             printf ("\n Enter Two Number");  
@@ -39,7 +39,7 @@ int main()
               
             scanf (" %f", &N2);  
             RESULT = N1 * N2;   
-            printf (" Multiplication = %.2f", RESULT);  
+            printf (" Multiplication is %.2f", RESULT);  
             break;                
         case 4:               
              
@@ -52,32 +52,32 @@ int main()
                     scanf ("%f", &N2);        
                 }  
             RESULT = N1 / N2;  
-            printf (" Division = %.2f", RESULT);  
+            printf (" Division is %.2f", RESULT);  
             break;
         case 5:
             printf ("\n Enter The Number");
             scanf(" %f", &N1);
             RESULT = sin(N1);
-            printf (" Sin of %f =  %.2f", N1, RESULT);
+            printf (" Sin of %f is  %.2f", N1, RESULT);
             break;  
         case 6:
              printf ("\n Enter The Number");
             scanf(" %f", &N1);
             RESULT = cos(N1);
-            printf (" Cos of %f =  %.2f", N1, RESULT);
+            printf (" Cos of %f is  %.2f", N1, RESULT);
             break;  
         case 7:                 
             printf ("\n Enter The Number");  
             scanf (" %f", &N1);               
             RESULT = sqrt(N1);   
-            printf (" Square Root of %f = %.2f", N1, RESULT);  
+            printf (" Square Root of %f is %.2f", N1, RESULT);  
             break;    
         case 8:
             printf ("\n Enter Two Numbers");
             scanf(" %d", &n1); 
             scanf(" %d", &n2);
             RESULT = pow(n1,n2);
-            printf (" Power of %d = %f", n1, RESULT);
+            printf (" Power of %d is %f", n1, RESULT);
             break;
         case 9:
             printf ("\n Enter a Number");
@@ -88,20 +88,20 @@ int main()
             res*=i;
             n1++;
             }
-            printf("Factorial of %d = %d ",n1,res);
+            printf("Factorial of %d is %d ",n1,res);
             break;
         case 10:
             printf("\n Enter Two Number");
             scanf(" %f", &N1); 
             scanf(" %f", &N2);
             RESULT =N1*(N2/100);
-            printf("The percentage of %f = %f ", N1, RESULT);
+            printf("The percentage of %f is %f ", N1, RESULT);
             break;
         case 11:                           
             printf ("\n Enter The Number");  
             scanf (" %f", &N1);   
             RESULT = N1 * N1; 
-            printf (" Square of %f = %.2f", N1, RESULT);  
+            printf (" Square of %f is %.2f", N1, RESULT);  
             break;                                    
         case 12:  
             printf (" You chose: Exit");  
