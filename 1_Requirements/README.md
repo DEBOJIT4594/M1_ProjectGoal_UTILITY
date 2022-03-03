@@ -4,11 +4,16 @@
 
    A calculator is a device use to do some basic mathematical operations. This include  **addition** , **substraction** , **division** and **multiplication** . In this project, I will add some additional  mathematical operations that are use in mathematical world. This includes Sin function, Cos function, Power, Factorial, etc. In this project, the user is going to enter numbers of his/her desire. 
    
+**REFERENCES**
+-
+https://www.javatpoint.com/
+
+This site has helped me a lot to complete my project.
   
 **HIGH LEVEL REQUIREMENT**
 -
-|Test ID  |    Description  |
--------------|------------------------
+|Test ID  |    Description  |  
+-------------|-----------------------------------
 |HL01     |    The calculator must perform all the operations. | 
 |HL02     |    The calculator must perform all the operations. |
 |HL03     |    The calculator must give corrent result.        |
@@ -16,7 +21,7 @@
 
 **LOW LEVEL REQUIREMENT**
 -
-|Test ID   |  Description |
+|Test ID   |  Description | 
 ------------------|-------------------
 |LL01     | The user must use **(** or **)** to do operation between two perticular number.|
 |LL02     | The number when given to sin and cos function must be in radian.|
