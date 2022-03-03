@@ -1,13 +1,17 @@
-PROJ_NAME = main
+PROJ_NAME = calculator
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
-SRC = src/addition.c\
-src/subtraction.c\
-src/division.c\
-src/modules.c\
-src/multiplication.c\
-src/factorial.c\
-src/power.c\
+SRC = src/add.c\
+src/cos.c\
+src/div.c\
+src/fac.c\
+src/mul.c\
+src/percent.c\
+src/pow.c\
+scr/sin.c\
+scr/sq_rt.c\
+scr/sqr.c\
+scr/sub.c\
 
 
 
@@ -28,7 +32,7 @@ endif
 
 
 all:
-	gcc -I $(INC_H) $(SRC) main.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
+	gcc -I $(INC_H) $(SRC) calculator.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
 	
 run:
 	$(call FixPath,$(PROJ_NAME).$(EXEC))
