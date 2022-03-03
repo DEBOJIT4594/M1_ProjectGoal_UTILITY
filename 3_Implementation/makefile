@@ -15,8 +15,8 @@ scr/sub.c\
 
 
 
-INC_H = inc
-INC_T = unity
+INC_H = Version_1_maincode
+INC_T = Version_2
 
 ifdef OS
    RM = del 
